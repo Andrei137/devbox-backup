@@ -26,7 +26,9 @@
     "lua51Packages.luarocks@latest",
     "nodejs@latest",
     "python@latest",
-    "fastfetch@latest"
+    "fastfetch@latest",
+    "zsh-defer@latest",
+    "oh-my-zsh@latest"
   ],
   "shell": {
     "init_hook": [
